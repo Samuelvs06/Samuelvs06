@@ -1,4 +1,8 @@
-Olá...
-Meu nome é Samuel, estou estudando programação na Alura e no SejaDev.
-Estou gostando muito do que venho aprendendo e com as metodologia da didatica de todos.
-Estudar e posteriomente trabalhar com programação é realiização de um sonho.
+# Oi, Meu nome é Samuel!;
+[!Facebook badge](https://www.facebook.com/)
+
+### Estudando
+- [Alura](HTML, Css, Python, JavaScript +Inglês)
+- [SejaDev](HTML, Css - Full Stack)
+
+<div>Faça o que ama e nunca precisara trabalhar<div/>
